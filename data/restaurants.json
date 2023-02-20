@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "name": "Test",
+        "address": "Test Street, Dayami 5",
+        "cuisine": "Korean",
+        "website": "https://testfood.com",
+        "description": "It's awesome!"
+    },
+    {
+        "name": "Test 2",
+        "address": "Teststreet 5, Testcity",
+        "cuisine": "English food",
+        "website": "https://mytest.com",
+        "description": "It's amazing!"
+    },
+    {
+        "name": "Test 3",
+        "address": "Teststreet 5, Gungocity",
+        "cuisine": "Pizza",
+        "website": "https://pizzaweb.com",
+        "description": "It's soso"
+    }
+]
